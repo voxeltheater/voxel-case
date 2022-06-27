@@ -13,7 +13,7 @@ One Voxel Case costs around $650, including all hardware.
 
 - [The Plywood Box](#the-plywood-box)
 - [Paint](#paint)
-- [Assemble]#assemble)
+- [Assemble](#assemble)
 - [The Drawers](#the-drawers)
 - [Shopping List](#shopping-list)
 
