@@ -34,21 +34,28 @@ The box can be made from two 4x8 sheets of 23/32” (common ¾”) plywood. We c
 | 2 | 2’-7 ⅝” x 1 ⅞” | Door Top/Bottom |
 
 ### Sheet Layout
-<img src="build-img/Sheet Layout.png" width="600"/>
+<img src="build-img/Sheet Layout.png" height="400"/>
+
+----
 
 ### Latch Cutouts
 Cut out notches for latches as indicated. These measurements are for [Medium Recessed Latches](https://www.reliablehardware.com/mediumrecessedlatchblack.aspx) from Reliable Hardware, and will need to be adjusted if you use different latches.
 
-<img src="build-img/Latch Cutouts.png" width="600"/>
+<img src="build-img/Latch Cutouts.png" height="400"/>
 
 Alternatively, the notches can be routed out to a depth of .55” instead of cut out completely.
+
+
+---
+
 
 ### Caster bolt holes
 Drill 5/16” holes for 5/16” x 1-¼” carriage bolts. This pattern ensures that there’s space for the heads of the carriage bolts on the inside.
 
-<img src="build-img/Caster Bolt Holes.png" width="600"/>
+<img src="build-img/Caster Bolt Holes.png" height="400"/>
+  
 
----
+-----
 
 ## Paint
 
@@ -74,9 +81,6 @@ Then bolt on the casters using (16) 5/16” x 1-¼” carriage bolts, (16) nuts,
 
 <img src="build-img/Casters.png" width="600"/>
 
-![](build-img/Layouts.png)
-
-
 ---
 
 ## The Drawers
@@ -84,13 +88,10 @@ There’s five different drawer modules that can be mixed together. Each drawer 
 
 The case is slightly wider than the drawer units- you may wish to shim the 1/8" space on the left and right sides. Once the module is in place, drill a hole through the back of the case and bolt the module in using 5/16” x 2-¾” carriage bolts, nuts, and washers.
 
+![](build-img/Layouts.png)
+
 For added durability, use wood glue when assembling the drawers.
 
-<img src="nordli-img/2 drawer full width.jpg" width="128" align="left"/>
-<img src="nordli-img/3 drawer full width.jpg" width="128" align="left"/>
-<img src="nordli-img/2 drawer half width.jpg" width="128" align="left"/>
-<img src="nordli-img/3 drawer half width.jpg" width="128" align="left"/>
-<img src="nordli-img/1 drawer double height half width.jpg" width="128"/>
 
 ---
 
