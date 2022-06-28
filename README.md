@@ -52,7 +52,7 @@ Alternatively, the notches can be routed out to a depth of `5/8”` instead of c
 
 
 ### Caster bolt holes
-Drill `15/16”` holes for `5/16” x 1-¼”` carriage bolts. This pattern ensures that there’s space for the heads of the carriage bolts on the inside.
+Drill `5/16”` holes for `5/16” x 1-¼”` carriage bolts. This pattern ensures that there’s space for the heads of the carriage bolts on the inside.
 
 <img src="build-img/CASTER BOLT HOLES.PNG" height="400"/>
   
