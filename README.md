@@ -63,7 +63,7 @@ Drill 5/16” holes for 5/16” x 1-¼” carriage bolts. This pattern ensures t
 
 Now’s the time to paint it. We gave it a base coat of dark muck paint, then black latex, and finally a clear seal coat for durability. We also painted a name for each case on the side, so you can tell what’s in it.
 
-We also left the inside of the lid unpainted.
+We also left the inside of the lid unpainted, to make the [accessories](accessories.md) easier to see.
 
 ---
 
