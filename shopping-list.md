@@ -16,6 +16,9 @@ Prices are accurate as of 6/2022
 | 1-⅝” Drywall Screws | $8.22 | 1 | $8.22 | https://www.mcmaster.com/90095A416/ |
 | ¾” Drywall Screws | $6.69 | 1 | $6.69 | https://www.mcmaster.com/90031A151/ |
 
+
+### NORDLI Modules
+
 | NORDLI Component | Each | Link |
 | ---------------- | ---- | ---- |
 | <img src="nordli-img/2 drawer full width.jpg" width="128"/> | $70 | https://www.ikea.com/us/en/p/nordli-modular-2-drawer-chest-anthracite-20365857/ |
