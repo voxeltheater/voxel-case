@@ -1,4 +1,4 @@
-# Shopping List
+# shopping-list
 
 Prices are accurate as of 6/2022
 
