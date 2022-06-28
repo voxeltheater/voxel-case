@@ -1,4 +1,7 @@
 # voxel-case
+
+<img src="build-img/3 case stitch.png"/>
+
 The Voxel Case is our cable and equipment storage solution at The Voxel Theater in Baltimore, MD. We designed the cases with four goals in mind:
 - **Modular.** As we grow, our inventory will grow. Changing should be easy.
 - **Intuitive.** Guest artists should be able to easily find what they need.
@@ -18,6 +21,10 @@ One Voxel Case costs around $650, including all hardware.
   - [Drawers](#drawers)
 - [Shopping List](shopping-list.md)
 - [Accessories](accessories.md)
+
+
+
+
 
 ---
 
