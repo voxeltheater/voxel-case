@@ -11,11 +11,13 @@ Using a modular system means drawers can be swapped without modifying the case i
 
 One Voxel Case costs around $650, including all hardware.
 
-- [The Plywood Box](#the-plywood-box)
-- [Paint](#paint)
-- [Assemble](#assemble)
-- [The Drawers](#the-drawers)
+- [Build Instructions](#voxel-case)
+  - [The Plywood Box](#the-plywood-box)
+  - [Paint](#paint)
+  - [Assemble](#assemble)
+  - [The Drawers](#the-drawers)
 - [Shopping List](shopping-list.md)
+- [Accessories](accessories.md)
 
 ---
 
