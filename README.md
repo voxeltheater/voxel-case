@@ -92,11 +92,13 @@ Finally, screw in the two bottom spacers. They should be against the outside of 
 ## The Drawers
 There’s five different [NORDLI drawer modules](shopping-list.md#nordli-modules) that can be mixed together. Each unit has one or two mounting holes in the back.
 
-The case is slightly wider than the drawer units- you may wish to shim the 1/8" space on the left and right sides. Once the module is in place, drill a 5/16" hole through the back of the case, using the factory hole in the NORDLI unit as a guide. Bolt the module in using 5/16” x 2-¾” carriage bolts, nuts, and washers.
+The case is slightly wider than the drawer units- you may wish to shim the 1/8" space on the left and right sides. Once the module is in place, drill a 5/16" hole through the back of the case, using the factory hole in the NORDLI unit as a guide.
+
+Bolt the module down using 5/16” x 2-¾” carriage bolts, nuts, and washers, with the head of the bolt on the outside of the case.
 
 ![](build-img/LAYOUTS.PNG)
 
-For added durability, use wood glue when assembling the drawers.
+For added durability, use wood glue when assembling the drawers!
 
 
 
