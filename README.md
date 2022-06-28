@@ -12,16 +12,16 @@ Using a modular system means drawers can be swapped without modifying the case i
 One Voxel Case costs around $650, including all hardware.
 
 - [Build Instructions](#voxel-case)
-  - [The Plywood Box](#the-plywood-box)
+  - [Prepare Materials](#prepare-materials)
   - [Paint](#paint)
   - [Assemble](#assemble)
-  - [The Drawers](#the-drawers)
+  - [Drawers](#drawers)
 - [Shopping List](shopping-list.md)
 - [Accessories](accessories.md)
 
 ---
 
-## The Plywood Box
+## Prepare Materials
 The box can be made from two 4x8 sheets of 23/32” (common ¾”) plywood. We chose sanded Birch plywood because we like the finish.
 
 |   | Cut List (for 23/32” stock) |   |
@@ -89,7 +89,7 @@ Finally, screw in the two bottom spacers. They should be against the outside of 
 
 ---
 
-## The Drawers
+## Drawers
 There’s five different [NORDLI drawer modules](shopping-list.md#nordli-modules) that can be mixed together. Each unit has one or two mounting holes in the back.
 
 The case is slightly wider than the drawer units- you may wish to shim the 1/8" space on the left and right sides. Once the module is in place, drill a 5/16" hole through the back of the case, using the factory hole in the NORDLI unit as a guide.
