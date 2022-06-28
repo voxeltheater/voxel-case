@@ -1,5 +1,7 @@
 # Shopping List
 
+Prices are accurate as of 6/2022
+
 | Component | Each | Quantity | Total | Link |
 | --------- | ---- | -------- | ----- | ---- |
 | Plywood Sheet | $85 | 2 | $170 | Local Lumber Supplier| 
