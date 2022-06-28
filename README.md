@@ -34,14 +34,14 @@ The box can be made from two 4x8 sheets of 23/32” (common ¾”) plywood. We c
 | 2 | 2’-7 ⅝” x 1 ⅞” | Door Top/Bottom |
 
 ### Sheet Layout
-<img src="build-img/Sheet Layout.png" height="400"/>
+<img src="build-img/PLYWOOD SHEET LAYOUT.png" height="400"/>
 
 ----
 
 ### Latch Cutouts
 Cut out notches for latches as indicated. These measurements are for [Medium Recessed Latches](https://www.reliablehardware.com/mediumrecessedlatchblack.aspx) from Reliable Hardware, and will need to be adjusted if you use different latches.
 
-<img src="build-img/Latch Cutouts.png" height="400"/>
+<img src="build-img/LATCH CUTOUTS.png" height="400"/>
 
 Alternatively, the notches can be routed out to a depth of .55” instead of cut out completely.
 
@@ -52,7 +52,7 @@ Alternatively, the notches can be routed out to a depth of .55” instead of cut
 ### Caster bolt holes
 Drill 5/16” holes for 5/16” x 1-¼” carriage bolts. This pattern ensures that there’s space for the heads of the carriage bolts on the inside.
 
-<img src="build-img/Caster Bolt Holes.png" height="400"/>
+<img src="build-img/CASTER BOLT HOLES.png" height="400"/>
   
 
 -----
@@ -71,24 +71,28 @@ Assemble the case as shown using your preferred fasteners. We opted to use glue 
 
 **Pay close attention to which pieces cap the others!**
 
-<img src="build-img/Assembly .png" width="600"/>
+<img src="build-img/BOX ASSEMBLY.png" width="600"/>
 
 Cut the piano hinge to 4’-8”. Temporarily clamp the front to the case, line it up, and screw in the hinge between the two halves.
 
-<img src="build-img/Hinge.png" width="600"/>
+<img src="build-img/BOX HINGE.png" width="600"/>
 
 Then bolt on the casters using (16) 5/16” x 1-¼” carriage bolts, (16) nuts, and (16) 5/16” washers.
 
-<img src="build-img/Casters.png" width="600"/>
+<img src="build-img/BOX CASTERS.png" width="600"/>
+
+Finally, screw in the two bottomspacers. They should be against the outside of the box and not block the caster bolts.
+
+<img src="build-img/BOX BOTTOM SPACERS.png" width="600"/>
 
 ---
 
 ## The Drawers
 There’s five different drawer modules that can be mixed together. Each drawer unit has one or two mounting holes at the top.
 
-The case is slightly wider than the drawer units- you may wish to shim the 1/8" space on the left and right sides. Once the module is in place, drill a hole through the back of the case and bolt the module in using 5/16” x 2-¾” carriage bolts, nuts, and washers.
+The case is slightly wider than the drawer units- you may wish to shim the 1/8" space on the left and right sides. Once the module is in place, drill a 5/16" hole through the back of the case, using the factory hole in the NORDLI unit as a guide. Bolt the module in using 5/16” x 2-¾” carriage bolts, nuts, and washers.
 
-![](build-img/Layouts.png)
+![](build-img/LAYOUTS.png)
 
 For added durability, use wood glue when assembling the drawers.
 
