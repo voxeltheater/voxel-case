@@ -5,8 +5,8 @@ Prices are accurate as of 6/2022
 | Component | Each | Quantity | Total | Link |
 | --------- | ---- | -------- | ----- | ---- |
 | Plywood Sheet | $85 | 2 | $170 | Local Lumber Supplier| 
-| Road Case Latches | $8.80 | 1 | $8.80 | https://www.reliablehardware.com/mediumrecessedlatchblack.aspx | 
-| 4” Casters | $19.47 | 4 | $77.88 | https://www.bmisupply.com/ProductDetail/064240SXK |
+| Road Case Latches | $8.80 | 1 | $8.80 | [https://www.reliablehardware.com](https://www.reliablehardware.com/mediumrecessedlatchblack.aspx) | 
+| 4” Casters | $19.47 | 4 | $77.88 | [https://www.bmisupply.com](https://www.bmisupply.com/ProductDetail/064240SXK) |
 | 6’ Black Piano Hinge | $21.37 | 1 | $21.37 | https://www.mcmaster.com/1904A82-1904A29/ |
 | Hinge Screws (100pk, makes 1 case) | $7.05 | 1 | $7.05 | https://www.mcmaster.com/91555A114/ |
 | Caster Bolts (50pk, makes 3 cases) | $8.24 | 1 | $8.24 | https://www.mcmaster.com/93604A643/ |
