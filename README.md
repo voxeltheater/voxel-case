@@ -26,14 +26,14 @@ The box can be made from two 4x8 sheets of 23/32” (common ¾”) plywood. We c
 
 |   | Cut List (for 23/32” stock) |   |
 | - | --------------------------- | - |
-| 2 | 2'-9 1/16" x 1’-8” | Top/Bottom |
-| 2 | 4'-6 3/4" x 1’-8” | Top/Bottom |
-| 1 | 4’ x 2’-7 ⅝” | Back piece 1 |
-| 1 | 6 ¾” x 2’-7 ⅝” | Back piece 2 |
-| 2 | 1’-0” x 2” | Bottom Spacers |
-| 1 | 4’-8 3/16” x 2’-9 1/16” | Door Front |
-| 2 | 4’-8 3/16”x 1 ⅞” | Door Sides |
-| 2 | 2’-7 ⅝” x 1 ⅞” | Door Top/Bottom |
+| 2 | `2'-9 1/16"` x `1’-8”` | Top/Bottom |
+| 2 | `4'-6 3/4"` x `1’-8”` | Top/Bottom |
+| 1 | `4’` x `2’-7 ⅝”` | Back piece 1 |
+| 1 | `6 ¾”` x `2’-7 ⅝”` | Back piece 2 |
+| 2 | `1’-0”` x `2”` | Bottom Spacers |
+| 1 | `4’-8 3/16”` x `2’-9 1/16”` | Door Front |
+| 2 | `4’-8 3/16”` x `1 ⅞”` | Door Sides |
+| 2 | `2’-7 ⅝”` x `1 ⅞”` | Door Top/Bottom |
 
 ### Sheet Layout
 <img src="build-img/PLYWOOD SHEET LAYOUT.PNG" height="400"/>
