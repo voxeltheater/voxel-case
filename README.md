@@ -45,14 +45,14 @@ Cut out notches for latches as indicated. These measurements are for [Medium Rec
 
 <img src="build-img/LATCH CUTOUTS.PNG" height="400"/>
 
-Alternatively, the notches can be routed out to a depth of .55” instead of cut out completely.
+Alternatively, the notches can be routed out to a depth of `5/8”` instead of cut out completely.
 
 
 ---
 
 
 ### Caster bolt holes
-Drill 5/16” holes for 5/16” x 1-¼” carriage bolts. This pattern ensures that there’s space for the heads of the carriage bolts on the inside.
+Drill `15/16”` holes for `5/16” x 1-¼”` carriage bolts. This pattern ensures that there’s space for the heads of the carriage bolts on the inside.
 
 <img src="build-img/CASTER BOLT HOLES.PNG" height="400"/>
   
@@ -75,11 +75,11 @@ Assemble the case as shown using your preferred fasteners. We opted to use glue 
 
 <img src="build-img/BOX ASSEMBLY.PNG" width="600"/>
 
-Cut the piano hinge to 4’-8”. Temporarily clamp the front to the case, line it up, and screw in the hinge between the two halves.
+Cut the piano hinge to `4’-8”`. Temporarily clamp the front to the case, line it up, and screw in the hinge between the two halves.
 
 <img src="build-img/BOX HINGE.PNG" width="600"/>
 
-Then bolt on the casters using (16) 5/16” x 1-¼” carriage bolts, (16) nuts, and (16) 5/16” washers.
+Then bolt on the casters using (16) `5/16” x 1-¼” carriage bolts`, (16) `5/16” nuts`, and (16) `5/16” washers`.
 
 <img src="build-img/BOX CASTERS.PNG" width="600"/>
 
@@ -94,7 +94,7 @@ There’s five different [NORDLI drawer modules](shopping-list.md#nordli-modules
 
 The case is slightly wider than the drawer units- you may wish to shim the 1/8" space on the left and right sides. Once the module is in place, drill a 5/16" hole through the back of the case, using the factory hole in the NORDLI unit as a guide.
 
-Bolt the module down using 5/16” x 2-¾” carriage bolts, nuts, and washers, with the head of the bolt on the outside of the case.
+Bolt the module down using `5/16” x 2-¾” carriage bolts`, `5/16” nuts`, and `5/16” washers`, with the head of the bolt on the outside of the case.
 
 ![](build-img/LAYOUTS.PNG)
 
