@@ -1,6 +1,6 @@
 # accessories
 
-We designed a series of 3D printable hangers and holders to store things in the lid of a Voxel Case.
+We designed a series of 3D printable hangers and holders to store things in the lid of a Voxel Case. We recommend printing with thick walls and a sturdy filament such as PETG.
 
 | Title | Image | Link |
 | --- | --- | --- |
