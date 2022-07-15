@@ -8,9 +8,9 @@ The Voxel Case is our cable and equipment storage solution at The Voxel Theater 
 - **Tidy.** We regularly host guests and classes, so we want the theater to look nice.
 - **Inexpensive.**
 
-We centered the design on the [IKEA NORDLI](https://www.ikea.com/us/en/search/products/?q=Nordli&f-colors=10028&f-subcategories=st004) modular chest-of-drawers system. We then designed an inexpensive plywood box with casters to surround them.
+We centered the design on the [IKEA NORDLI](https://www.ikea.com/us/en/search/products/?q=Nordli&f-colors=10028&f-subcategories=st004) modular chest-of-drawers system. We then designed a light-duty castered enclosure. Though they aren't quite robust enough to go out on tour, they work great rolling around our theater.
 
-Using a modular system means drawers can be swapped without modifying the case itself. Though the drawers are mass produced, we’ve been using them for more than a year and have not experienced any failures. We think they look pretty sharp!
+Using a modular system means drawers can be swapped without modifying the case itself. We think they look pretty sharp!
 
 One Voxel Case costs around $650, including all hardware.
 
