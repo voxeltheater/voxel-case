@@ -9,3 +9,7 @@ We designed a series of 3D printable hangers and holders to store things in the 
 | Cable Hooks | ![](/accessories-img/voxel-cable-hooks.png) | [https://thangs.com/mythangs/file/161542](https://social.thangs.com/m/161542) |
 | SM58 Holder | ![](/accessories-img/voxel-case-sm58-holder.png) | [https://thangs.com/mythangs/file/161538](https://social.thangs.com/m/161538) |
 | Blackmagic Microconverter Holder | ![](/accessories-img/voxel-case-microconverter-holder.png) | [https://thangs.com/mythangs/file/161552](https://social.thangs.com/m/161552) |
+
+### Circle labels
+Circle stickers: https://www.amazon.com/Assorted-Stickers-Adhesive-Inventory-Classification/dp/B09FSSSK5G/
+We used clear labalmakers labels on top of these stickers to add text.
