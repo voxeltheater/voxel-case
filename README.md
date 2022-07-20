@@ -108,4 +108,13 @@ Bolt the module down using `5/16” x 2-¾” carriage bolts`, `5/16” nuts`, a
 For added durability, use wood glue when assembling the drawers!
 
 
+---
+
+# Notes
+Here are some things we've learned while using our new cases:
+- The top drawers are a bit too high for shorter technicians. We don't put anything in those drawers that requires a top-down view to find. You might consider leaving the top 1/6 of the case as a open-faced shelf, as we did in our Video case.
+- Use PETG filament when printing accessories, it's worth it for the increased durability.
+- Print out useful references (cable color codes etc) and tape them up to the inside of the lid for quick reference.
+
+
 
