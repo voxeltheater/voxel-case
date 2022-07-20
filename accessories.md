@@ -12,4 +12,7 @@ We designed a series of 3D printable hangers and holders to store things in the 
 
 ### Circle labels
 Circle stickers: https://www.amazon.com/Assorted-Stickers-Adhesive-Inventory-Classification/dp/B09FSSSK5G/
+
+<img src="https://user-images.githubusercontent.com/919746/179942347-d2184c5f-b22a-4b0d-86e1-653de97ca331.jpg" width="200">
+
 We used clear labalmakers labels on top of these stickers to add text.
